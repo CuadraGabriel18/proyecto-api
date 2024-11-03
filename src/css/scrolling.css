@@ -1,0 +1,4 @@
+.scrolling-list {
+    max-height: 400px; /* Altura máxima de la lista */
+    overflow-y: auto; /* Agrega barra de desplazamiento vertical si es necesario */
+}
